@@ -1,4 +1,4 @@
-<h1 style="color: red">Четвёртое задание</h1>
+<h1 style="color: orange">Четвёртое задание</h1>
 
 <?php
 
