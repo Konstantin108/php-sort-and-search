@@ -1,4 +1,4 @@
-<h1 style="color: red">Первое задание</h1>
+<h1 style="color: orange">Первое задание</h1>
 
 <?php
 
@@ -52,7 +52,7 @@ displayRes($res);
 
 ?>
 
-<h1 style="color: red">Третье задание</h1>
+<h1 style="color: orange">Третье задание</h1>
 
 <?php
 
